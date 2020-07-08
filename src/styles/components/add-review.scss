@@ -1,0 +1,11 @@
+.add-review {
+  &-container {
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    align-items: flex-start;
+  }
+  &-rating {
+    font-size: rem(24px);
+  }
+}
